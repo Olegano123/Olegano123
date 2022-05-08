@@ -12,6 +12,5 @@
     <img src="https://i.imgur.com/6cG59I1.png" alt="Twitter Badge" width="100"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 
