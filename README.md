@@ -33,6 +33,6 @@
 <img src="https://i.imgur.com/wnRuysp.png" alt="Sketch" width="60"/>&nbsp;
 
 ---
-### :computer: А что там с языками программирования?:
+### :computer: А что там с языками программирования?
 <img src="https://i.imgur.com/IG9w7Ye.png" alt="HTML" width="60"/>&nbsp;
 <img src="https://i.imgur.com/mybDP6y.png" alt="CSS" width="60"/>&nbsp;
