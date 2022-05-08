@@ -25,6 +25,6 @@
 
 ---
 ### :desktop_computer: C какими инструментами я работаю:
-<img src="https://i.imgur.com/mybDP6y.png" alt="Youtube Badge" width="100"/>&nbsp;
-<img src="https://i.imgur.com/IG9w7Ye.png" alt="Youtube Badge" width="100"/>&nbsp;
+<img src="https://i.imgur.com/mybDP6y.png" alt="Youtube Badge" width="60"/>&nbsp;
+<img src="https://i.imgur.com/IG9w7Ye.png" alt="Youtube Badge" width="60"/>&nbsp;
 
