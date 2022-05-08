@@ -3,6 +3,7 @@
 </div>
 
 
+
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://i.imgur.com/O43EpVb.png" alt="LinkedIn Badge" width="50"/>
