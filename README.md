@@ -21,7 +21,7 @@
 
 - :pencil: Кропотливо прохожу онлайн-обучение по позиции Web-Разработчика на базе Яндекс Практикума.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zany_face: В свободное от разработки время, стараюсь играю в настольные игры и беситься со своим собакеном. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
