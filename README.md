@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" alt="LinkedIn Badge" width="40"/>
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" alt="LinkedIn Badge" width="100"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://i.imgur.com/QTMkO4c.png" alt="Youtube Badge" width="40"/>
