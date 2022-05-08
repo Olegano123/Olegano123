@@ -4,7 +4,7 @@
 
 
 
-<div id="badges" align="center">
+<div id="badges" align="center" style="text-indent:25px;">
   <a href="your-linkedin-URL">
     <img src="https://i.imgur.com/O43EpVb.png" alt="LinkedIn Badge" width="50"/>
   </a>
