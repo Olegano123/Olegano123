@@ -19,7 +19,7 @@
 
 - :ru: Проживаю в большом экономическом и культурном городе на юго-западе России - Краснодар.
 
-- :seedling: Exploring Technical Content Writing.
+- :pencil: С 2022 года обучаюсь на Web-Разработчика на базе компании Яндекс Практикума
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
