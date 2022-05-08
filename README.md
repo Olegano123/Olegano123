@@ -25,7 +25,10 @@
 
 ---
 ### :desktop_computer: C какими инструментами я работаю:
-<img src="https://i.imgur.com/0YCOTiP.png" alt="Adobe Photoshop CC" width="60"/>&nbsp;
 <img src="https://i.imgur.com/4f9pZeA.png" alt="Visual Studio Code" width="60"/>&nbsp;
 <img src="https://i.imgur.com/4pRMEvy.png" alt="Xcode" width="60"/>&nbsp;
+<img src="https://i.imgur.com/0YCOTiP.png" alt="Adobe Photoshop CC" width="60"/>&nbsp;
+<img src="https://i.imgur.com/auPCjk7.png" alt="Canva" width="60"/>&nbsp;
+<img src="https://i.imgur.com/Icabc61.png" alt="Figma" width="60"/>&nbsp;
+<img src="https://i.imgur.com/wnRuysp.png" alt="Sketch" width="60"/>&nbsp;
 
