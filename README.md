@@ -24,5 +24,7 @@
 - :zany_face: В свободное от разработки время, стараюсь играю в настольные игры и беситься со своим собакеном. 
 
 ---
-
+### :desktop_computer: C какими инструментами я работаю:
+<img src="https://i.imgur.com/mybDP6y.png" alt="Youtube Badge" width="100"/>
+<img src="https://i.imgur.com/IG9w7Ye.png" alt="Youtube Badge" width="100"/>
 
