@@ -38,4 +38,9 @@
 <img src="https://i.imgur.com/IG9w7Ye.png" alt="HTML" width="60"/>&nbsp;
 <img src="https://i.imgur.com/mybDP6y.png" alt="CSS" width="60"/>&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olegano123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### :package: А где же твои проекты?
+1. [russian-travel](https://olegano123.github.io/russian-travel/)
+2. [how-to-learn](https://olegano123.github.io/how-to-learn-plus/)
+3. [mesto-project](https://olegano123.github.io/mesto-project/)
