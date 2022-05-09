@@ -2,11 +2,7 @@
   <img src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="150"/>
 </div>
 
-
-
-
-
-
+<br>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://i.imgur.com/hilolfv.png" alt="LinkedIn Badge" width="100"/>
