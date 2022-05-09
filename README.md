@@ -7,11 +7,11 @@
   <a href="olegano123@gmail.com">
     <img src="https://i.imgur.com/hilolfv.png" alt="Gmail.com" width="100"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://wa.me/89788157307">
     <img src="https://wa.me/89788157307" alt="WhatSapp" width="100"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="t-do.ru/gvardeets96/" alt="Telegram" width="100"/>
+  <a href="t-do.ru/gvardeets96/">
+    <img src="" alt="Telegram" width="100"/>
   </a>
 </div>
 
