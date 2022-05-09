@@ -41,6 +41,6 @@
 ---
 
 ### :package: А где же твои проекты?
-1. [russian-travel](https://olegano123.github.io/russian-travel/)
-2. [how-to-learn](https://olegano123.github.io/how-to-learn-plus/)
-3. [mesto-project](https://olegano123.github.io/mesto-project/)
+1. [Учебный проект "Путешествия по России"](https://olegano123.github.io/russian-travel/)
+2. [Учебный проект "Научиться учиться"](https://olegano123.github.io/how-to-learn-plus/)
+3. [Учебный проект "Место"](https://olegano123.github.io/mesto-project/)
