@@ -8,10 +8,10 @@
     <img src="https://i.imgur.com/hilolfv.png" alt="Gmail.com" width="100"/>
   </a>
   <a href="https://wa.me/89788157307">
-    <img src="https://wa.me/89788157307" alt="WhatSapp" width="100"/>
+    <img src="https://i.imgur.com/MIAtTtx.png" alt="WhatSapp" width="100"/>
   </a>
   <a href="t-do.ru/gvardeets96/">
-    <img src="" alt="Telegram" width="100"/>
+    <img src="https://i.imgur.com/6cG59I1.png" alt="Telegram" width="100"/>
   </a>
 </div>
 
