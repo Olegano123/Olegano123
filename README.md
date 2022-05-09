@@ -13,8 +13,8 @@
   <a href="t-do.ru/gvardeets96/">
     <img src="https://i.imgur.com/6cG59I1.png" alt="Telegram" width="100"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Olegano123&style=flat-square&color=blue" alt=""/>
 </div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Olegano123&style=flat-square&color=blue" alt=""/></div>
 
 ---
 
