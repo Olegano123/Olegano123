@@ -5,13 +5,13 @@
 <br>
 <div id="badges" align="center">
   <a href="olegano123@gmail.com">
-    <img src="https://i.imgur.com/hilolfv.png" alt="LinkedIn Badge" width="100"/>
+    <img src="https://i.imgur.com/hilolfv.png" alt="Gmail.com" width="100"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://i.imgur.com/MIAtTtx.png" alt="Youtube Badge" width="100"/>
+    <img src="https://wa.me/89788157307" alt="WhatSapp" width="100"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://i.imgur.com/6cG59I1.png" alt="Twitter Badge" width="100"/>
+    <img src="t-do.ru/gvardeets96/" alt="Telegram" width="100"/>
   </a>
 </div>
 
