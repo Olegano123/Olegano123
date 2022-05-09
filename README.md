@@ -15,6 +15,8 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Olegano123&style=flat-square&color=blue" alt=""/>
+
 ---
 
 ### :man_technologist: Может расскажешь немного о себе?
