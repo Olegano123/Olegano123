@@ -26,17 +26,17 @@
 ---
 ### :gear: C какими инструментами я работаю:
 <img src="https://i.imgur.com/4f9pZeA.png" alt="Visual Studio Code" title="Visual Studio Code" width="60"/>&nbsp;
-<img src="https://i.imgur.com/4pRMEvy.png" alt="Xcode" width="60"/>&nbsp;
-<img src="https://i.imgur.com/0YCOTiP.png" alt="Adobe Photoshop CC" width="60"/>&nbsp;
-<img src="https://i.imgur.com/auPCjk7.png" alt="Canva" width="60"/>&nbsp;
-<img src="https://i.imgur.com/Icabc61.png" alt="Figma" width="60"/>&nbsp;
-<img src="https://i.imgur.com/wnRuysp.png" alt="Sketch" width="60"/>&nbsp;
+<img src="https://i.imgur.com/4pRMEvy.png" alt="Xcode" title="Xcode" width="60"/>&nbsp;
+<img src="https://i.imgur.com/0YCOTiP.png" alt="Adobe Photoshop CC" title="Adobe Photoshop CC" width="60"/>&nbsp;
+<img src="https://i.imgur.com/auPCjk7.png" alt="Canva" title="Canva" width="60"/>&nbsp;
+<img src="https://i.imgur.com/Icabc61.png" alt="Figma" title="Figma" width="60"/>&nbsp;
+<img src="https://i.imgur.com/wnRuysp.png" alt="Sketch" title="Sketch" width="60"/>&nbsp;
 
 ---
 
 ### :computer: А что там с языками программирования?
-<img src="https://i.imgur.com/IG9w7Ye.png" alt="HTML" width="60"/>&nbsp;
-<img src="https://i.imgur.com/mybDP6y.png" alt="CSS" width="60"/>&nbsp;
+<img src="https://i.imgur.com/IG9w7Ye.png" alt="HTML" title="HTML" width="60"/>&nbsp;
+<img src="https://i.imgur.com/mybDP6y.png" alt="CSS" title="CSS" width="60"/>&nbsp;
 
 ---
 
