@@ -42,7 +42,7 @@
 ### :computer: А что там с языками программирования?
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="60"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="60"/>&nbsp;
-<img src="https://i.imgur.com/ZF7AKY3.png" alt="JavaScript" title="JavaScript" width="60"/>&nbsp;
+<img src="https://i.imgur.com/ZF7AKY3.png" alt="JavaScript" title="JavaScript" width="50"/>&nbsp;
 
 ---
 
