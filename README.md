@@ -15,7 +15,7 @@
 
 ---
 
-### :man_technologist: Немного о себе:
+### :man_technologist: Может расскажешь немного о себе?:
 
 - :ru: Проживаю в большом экономическом и культурном городе на юго-западе России - Краснодар.
 
@@ -24,7 +24,7 @@
 - :zany_face: В свободное от разработки время, стараюсь играю в настольные игры и беситься со своим собакеном. 
 
 ---
-### :gear: C какими инструментами я работаю:
+### :gear: C какими инструментами ты работаешь?
 <img src="https://i.imgur.com/4f9pZeA.png" alt="Visual Studio Code" title="Visual Studio Code" width="60"/>&nbsp;
 <img src="https://i.imgur.com/4pRMEvy.png" alt="Xcode" title="Xcode" width="60"/>&nbsp;
 <img src="https://i.imgur.com/0YCOTiP.png" alt="Adobe Photoshop CC" title="Adobe Photoshop CC" width="60"/>&nbsp;
