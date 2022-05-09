@@ -29,7 +29,7 @@
 ### :gear: C какими инструментами ты работаешь?
 <img src="https://i.imgur.com/4f9pZeA.png" alt="Visual Studio Code" title="Visual Studio Code" width="60"/>&nbsp;
 <img src="https://i.imgur.com/4pRMEvy.png" alt="Xcode" title="Xcode" width="60"/>&nbsp;
-<img src="https://i.imgur.com/AZzOywL.png" alt="Sketch" title="GitHub" width="60"/>&nbsp;
+<img src="https://i.imgur.com/zeHjCge.png" alt="Sketch" title="GitHub" width="60"/>&nbsp;
 <img src="https://i.imgur.com/0YCOTiP.png" alt="Adobe Photoshop CC" title="Adobe Photoshop CC" width="60"/>&nbsp;
 <img src="https://i.imgur.com/auPCjk7.png" alt="Canva" title="Canva" width="60"/>&nbsp;
 <img src="https://i.imgur.com/Icabc61.png" alt="Figma" title="Figma" width="60"/>&nbsp;
