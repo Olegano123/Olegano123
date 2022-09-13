@@ -38,7 +38,7 @@
 <img src="https://i.imgur.com/auPCjk7.png" alt="Canva" title="Canva" width="60"/>&nbsp;
 <img src="https://i.imgur.com/Icabc61.png" alt="Figma" title="Figma" width="60"/>&nbsp;
 <img src="https://i.imgur.com/wnRuysp.png" alt="Sketch" title="Sketch" width="60"/>&nbsp;
-<img src="https://imgur.com/ZioA9mW" alt="Tilda" title="Tilda" width="60"/>&nbsp;
+<img src="https://i.imgur.com/ZioA9mW.png" alt="Tilda" title="Tilda" width="60"/>&nbsp;
 
 ---
 
