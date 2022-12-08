@@ -53,4 +53,6 @@
 1. [Учебный проект "Путешествия по России"](https://olegano123.github.io/russian-travel/)
 2. [Учебный проект "Научиться учиться"](https://olegano123.github.io/how-to-learn-plus/)
 3. [Учебный проект "Место"](https://olegano123.github.io/mesto-project/)
-3. [Сайт на конструкторе "Тильда" - Медицинский копирайтер](https://medical-copywriter.ru/)
+4. [Сайт на конструкторе "Тильда" - Медицинский копирайтер](https://medical-copywriter.ru/)
+5. [Сайт на конструкторе "Тильда" - SADoJ](http://sadoj.ru/)
+6. [Сайт на конструкторе "Тильда" - КрымПромБезопасность](http://krympb.tilda.ws/)
