@@ -45,7 +45,6 @@
 ### :computer: Какими навыками ты обладаешь?
 <img src="https://i.imgur.com/5RgcQ8W.png" alt="HTML" title="HTML" width="45"/>&nbsp;
 <img src="https://i.imgur.com/7nRMN0O.png" alt="CSS" title="CSS" width="45"/>&nbsp;
-<img src="https://i.imgur.com/ZF7AKY3.png" alt="JavaScript" title="JavaScript" width="45"/>&nbsp;
 
 ---
 
